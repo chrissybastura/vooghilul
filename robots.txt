@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquookaud.nato-alphabet.de/sitemap.xml
